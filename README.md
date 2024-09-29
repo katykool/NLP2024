@@ -1,2 +1,2 @@
-# NLP2024
+# Шерстнева Катя, БКЛ222
 for 3rd year nlp course in hse 
